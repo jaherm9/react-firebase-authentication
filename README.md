@@ -2,5 +2,4 @@
 
 update read me file in later
 
-57-5 Login Form Field Validation Using Regular Expression, Show Error
-7 Minute
+Module 57 completed
